@@ -409,3 +409,34 @@ git push
 git push file2
 git push --set-upstream file2 rajesh
 git merge sonu
+git clone https://github.com/Rajeshpasunoori/git-.git
+ls
+git branch pepsi
+git checkout -b pepsi
+git checkout pepsi
+cat file1
+ls
+git checkout pepsi
+git add .
+git commit -m "branch"
+git push
+git remote add file1 https://github.com/Rajeshpasunoori/git-.git
+git push pepsi
+git push --set-upstream pepsi pepsi
+git push git-
+git push --set-upstream git- pepsi
+ls
+cd git-
+ls
+cd ..
+ls
+git checkout pepsi
+git add .
+git commit -m "pespi-test"
+git push
+touch f1
+ls
+git add .
+git commit -m "pespi2"
+ls
+git push
